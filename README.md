@@ -1,6 +1,10 @@
 # Projeto da Unifesp de Probabilidade e Estatística
 
-**Link do Relatório** : [Relatório](https://unifespbr-my.sharepoint.com/:w:/g/personal/jvfcolombini_unifesp_br/ETU9aG4Ibx5OjRvXKFtYYlwBv_AEiL3Ufv0pSDd4TGhnSg?rtime=hVf-nOV020g)
+## Documentos
+
+- ### [Link do Relatório](https://unifespbr-my.sharepoint.com/:w:/g/personal/jvfcolombini_unifesp_br/ETU9aG4Ibx5OjRvXKFtYYlwBv_AEiL3Ufv0pSDd4TGhnSg?rtime=hVf-nOV020g)
+
+- ### [Link da Análise](https://github.com/masterkey-07/proj-prob-ibge/blob/main/notebook.ipynb)
 
 
 # Tema
