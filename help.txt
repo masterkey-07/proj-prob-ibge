@@ -1,0 +1,5 @@
+
+
+- É perceptível correlações entre vários indices acumulados ao ano, porém numa visão mensal, não há fortes relações
+- Alimentação, Despesas Pessoais e Educação são principais fatores que afetam o IPCA nos anos.
+- Pelos Box Plots há vários outliers, sendo consequência do caos do mercado
